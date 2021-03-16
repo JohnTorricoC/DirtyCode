@@ -3,6 +3,7 @@
 Codigo Duplicado
 Extraer en un metodo
 1-2
+
 **Code Smell 2**
 3-5
 Nombre de Variables
