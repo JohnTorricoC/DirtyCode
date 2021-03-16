@@ -9,6 +9,9 @@ Extraer en un metodo.
 
 **Code Smell 2**
 3-5.
+
 Nombre de Variables.
+
 Renombrado de variables.
+
 1-2.
