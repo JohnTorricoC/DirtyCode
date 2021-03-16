@@ -1,7 +1,10 @@
 **Code Smell 1**
 3-6.
+
 Codigo Duplicado.
+
 Extraer en un metodo.
+
 1-2.
 
 **Code Smell 2**
